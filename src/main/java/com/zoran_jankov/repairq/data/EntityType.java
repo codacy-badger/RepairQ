@@ -1,5 +1,7 @@
 package com.zoran_jankov.repairq.data;
 
+import com.zoran_jankov.repairq.data.entity.Entity;
+
 public enum EntityType
 {
 	NOTIFICATION,
